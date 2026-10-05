@@ -1,0 +1,14 @@
+# Compiled executable
+mini-redis
+
+# Persistence database
+dump.rdb
+
+# Test executable
+test-resp
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
